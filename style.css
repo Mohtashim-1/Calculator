@@ -1,0 +1,23 @@
+body{
+    background-color: red;
+}
+td>input{
+    width: 127px;
+    height: 82px;
+    font-size: larger;
+    font-family: sans-serif;
+    
+}
+input#result{
+    width: 380px;
+    height: 78px;
+}
+h1{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+}
+table{
+    align-items: center;
+    margin-left: 29%;
+}
